@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;600;700&display=swap');
+
+
 * {
     margin: 0;
     padding: 0;
@@ -5,13 +8,13 @@
 }
 
 html {
+    font-family: 'Rubik', sans-serif;
     font-size: 1rem;
     font-weight: 400;
-    color: white;
-    background-color: #555;
 }
 
 .container {
+    background-color: lightcoral;
     width: 80%;
     margin: 0 auto;
     text-align: center;
@@ -19,9 +22,6 @@ html {
 
 /* Header and nav bar */
 
-.header {
-    margin-bottom: 2em;
-}
 .nav {
 
 }
@@ -49,27 +49,4 @@ html {
 .nav-link:hover,
 .nav-link:focus {
     color: red;
-}
-
-/* Hero Section */
-
-.hero-section {
-    width: 80%;
-    text-align: center;
-    margin: 0 auto;
-
-}
-
-.hero-text {
-    color: white;
-    border: 1px solid red;
-}
-
-.hero-img {
-    
-    border: 1px solid red;
-}
-
-img {
-    width: 100%;
 }
