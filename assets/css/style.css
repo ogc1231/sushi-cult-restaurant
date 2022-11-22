@@ -23,7 +23,9 @@ html {
 }
 
 .nav-list {
-    
+    display: flex; 
+    justify-content: center;
+    align-items: center;  
 }
 
 .nav-item {
@@ -33,6 +35,7 @@ html {
 .nav-link {
     text-decoration: none;
     color: inherit;
+    margin: 0 0.5em;
 }
 
 .current-page {
