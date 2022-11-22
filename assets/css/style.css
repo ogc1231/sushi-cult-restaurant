@@ -21,3 +21,7 @@
 .nav-link {
     text-decoration: none;
 }
+
+.current-page {
+    border-bottom: 2px solid;
+}
