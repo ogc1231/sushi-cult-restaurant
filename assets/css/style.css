@@ -50,3 +50,16 @@ html {
 .nav-link:focus {
     color: red;
 }
+
+/* Hero section */
+
+.hero-text {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.hero-text-top {
+    order: -1;
+}
