@@ -63,3 +63,16 @@ html {
 .hero-text-top {
     order: -1;
 }
+
+.hero-btn {
+    color: white;
+    background-color: goldenrod;
+    padding: 0.5em 1em;
+    border-radius: 4px;
+    text-decoration: none;
+}
+
+.hero-btn:hover,
+.hero-btn:focus {
+    background-color: grey;
+}
