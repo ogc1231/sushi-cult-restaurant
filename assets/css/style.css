@@ -1,16 +1,21 @@
 @import url('https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;600;700&display=swap');
 
 
-* {
+/* * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-}
+} */
 
 html {
     font-family: 'Rubik', sans-serif;
     font-size: 1rem;
     font-weight: 400;
+}
+
+body {
+    background-color: #2b2a33;
+    color: white;
 }
 
 .container {
@@ -53,6 +58,11 @@ html {
 
 /* Hero section */
 
+.hero {
+    width: 80%;
+    margin: 0 auto;
+}
+
 .hero-text {
     display: flex;
     flex-direction: column;
@@ -75,4 +85,18 @@ html {
 .hero-btn:hover,
 .hero-btn:focus {
     background-color: grey;
+}
+
+.img-hero {
+    width: 100%;
+}
+
+/* Media Queires */
+
+@media (min-width:900px) {
+    .header-flex, .hero {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
 }
