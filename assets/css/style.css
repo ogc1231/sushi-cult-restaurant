@@ -4,6 +4,10 @@
     box-sizing: border-box;
 }
 
+body {
+    color: #fff;
+}
+
 
 /* Header and nav bar */
 
@@ -32,6 +36,7 @@
 
 .nav-link {
     text-decoration: none;
+    color: #fff
 }
 
 .current-page {
@@ -42,22 +47,28 @@
 /* Hero section */
 
 .hero {
-    background-color: #555;
+    background-color: black;
     width: 80%;
     margin: 0 auto;
     padding: 2em;
 }
 
 .hero-text {
-    background-color: lightcoral;
+    background-color: black;
     margin: 0 auto;
     text-align: center;
     display: flex;
     flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 
 .hero-text-top {
     order: -1;
+}
+
+.hero-btn {
+    color: #fff;
 }
 
 .hero-img {
@@ -69,17 +80,30 @@ img {
 }
 
 /* Media */
+@media (min-width:600px) {
+    .nav-list {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+}
+
 
 @media (min-width:900px) {
+    .header {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
     .hero {
         display: flex;
     }
 
     .hero-text {
-        width: 50%;
+        width: 60%;
     }
 
     .hero-img {
-        width: 50%;
+        width: 40%;
     }
 }
