@@ -25,3 +25,16 @@ img {
     width: 100%;
 }
 
+@media (min-width:900px) {
+    .hero {
+        display: flex;
+    }
+
+    .hero-text {
+        width: 50%;
+    }
+
+    .hero-img {
+        width: 50%;
+    }
+}
