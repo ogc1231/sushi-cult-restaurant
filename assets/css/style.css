@@ -68,7 +68,17 @@ body {
 }
 
 .hero-btn {
+    text-decoration: none;
     color: #fff;
+    background-color: #ff3939;
+    padding: 0.1em 1em;
+    border-radius: 100px;
+}
+
+.hero-btn:hover,
+.hero-btn:focus {
+    background-color: rgba(0, 0, 0, 0);
+    border: 1px solid #fff;
 }
 
 .hero-img {
