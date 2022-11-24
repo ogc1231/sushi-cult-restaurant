@@ -95,8 +95,21 @@ img {
     width: 100%;
 }
 
+/* About */
 
+.about {
+    background-color: #171717;
+    width: 80%;
+    margin: 0 auto;
+}
 
+.about-text {
+    padding: 2em;
+}
+
+.about-image1 {
+    background-color: black;
+}
 /* Chef */
 
 .chef {
@@ -114,6 +127,8 @@ img {
         justify-content: center;
         align-items: center;
     }
+
+    
 }
 
 
@@ -136,5 +151,9 @@ img {
     .hero-img {
         width: 50%;
         border: 2px solid red;
+    }
+
+    .about-imgs {
+        display: flex;
     }
 }
