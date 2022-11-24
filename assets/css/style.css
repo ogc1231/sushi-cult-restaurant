@@ -42,7 +42,7 @@
 /* Hero section */
 
 .hero {
-    background-color: darkcyan;
+    background-color: #555;
     width: 80%;
     margin: 0 auto;
     padding: 2em;
@@ -52,6 +52,12 @@
     background-color: lightcoral;
     margin: 0 auto;
     text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.hero-text-top {
+    order: -1;
 }
 
 .hero-img {
