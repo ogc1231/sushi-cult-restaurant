@@ -5,16 +5,53 @@
 }
 
 
+/* Header and nav bar */
+
+.header {
+    background-color: lightgreen;
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+
+}
+
+.title {
+
+}
+
+.nav {
+
+}
+.nav-list {
+
+}
+
+.nav-item {
+    list-style: none;
+}
+
+.nav-link {
+    text-decoration: none;
+}
+
+.current-page {
+
+}
+
+
+/* Hero section */
+
 .hero {
     background-color: darkcyan;
     width: 80%;
     margin: 0 auto;
-    padding: 3em;
+    padding: 2em;
 }
 
 .hero-text {
     background-color: lightcoral;
     margin: 0 auto;
+    text-align: center;
 }
 
 .hero-img {
@@ -24,6 +61,8 @@
 img {
     width: 100%;
 }
+
+/* Media */
 
 @media (min-width:900px) {
     .hero {
