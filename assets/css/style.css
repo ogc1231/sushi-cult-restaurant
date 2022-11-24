@@ -8,6 +8,11 @@ body {
     color: #fff;
 }
 
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
 
 /* Header and nav bar */
 
@@ -48,8 +53,6 @@ body {
 
 .hero {
     background-color: #171717;
-    width: 80%;
-    margin: 0 auto;
     padding: 2em;
 }
 
@@ -99,8 +102,6 @@ img {
 
 .about {
     background-color: #171717;
-    width: 80%;
-    margin: 0 auto;
 }
 
 .about-text {
@@ -113,8 +114,6 @@ img {
 /* Chef */
 
 .chef {
-    width: 80%;
-    margin: 0 auto;
     padding: 2em;
     background-color: #171717;
 }
