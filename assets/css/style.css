@@ -95,6 +95,18 @@ img {
     width: 100%;
 }
 
+
+
+/* Chef */
+
+.chef {
+    background-color: #171717;
+}
+
+.chef-quote {
+    color: #ff3939;
+}
+
 /* Media */
 @media (min-width:600px) {
     .nav-list {
