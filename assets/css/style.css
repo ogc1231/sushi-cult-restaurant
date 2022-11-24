@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.hero {
+    background-color: darkcyan;
+    width: 80%;
+    margin: 0 auto;
+    padding: 3em;
+}
+
+.hero-text {
+    background-color: lightcoral;
+    margin: 0 auto;
+}
+
+.hero-img {
+    margin: 0 auto;
+}
+
+img {
+    width: 100%;
+}
+
