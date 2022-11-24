@@ -6,4 +6,30 @@ The website will consist of three/four pages that are fully responsive and easy 
 [Live site: https://ogc1231.github.io/sushi-cult-restaurant/
 
 
+
+## UX & Design
+### Wireframes?
+### User Stories
+### Colour Scheme
+### Typography
+
+## Features
+### Home Page
+### Menu Page
+### Booking Page
+### Sushi Club Page
+
+## Testing
+
+## Deployment
+### Local Deployment 
+
+## Credits
+### Code
+### Content
+### Design
+### Media
+
+
+
 Hero image: https://www.freepik.com/premium-photo/green-sushi-rolls-with-tobiko-green-caviar-shrimp-traditional-japanese-cuisine-top-view_25061247.htm#page=2&query=sushi&position=38&from_view=search&track=sph
