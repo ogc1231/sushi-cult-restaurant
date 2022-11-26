@@ -129,6 +129,16 @@ img {
     background-color: #ff3939;
 }
 
+.social-links {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.social-link {
+    list-style: none;
+}
+
 /* Media */
 @media (min-width:600px) {
     .nav-list {
