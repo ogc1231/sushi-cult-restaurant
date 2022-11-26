@@ -137,8 +137,29 @@ img {
 
 .social-link {
     list-style: none;
+    padding: 0 0.2em;
 }
 
+.social-linka {
+    text-decoration: none;
+    color: #fff;
+}
+
+.social-linka:hover,
+.social-linka:focus,
+.credit-link:hover,
+.credit-link:focus  {
+    color: #555;
+}
+
+.credit {
+   text-align: center;
+}
+
+.credit-link {
+    text-decoration: none;
+    color: #fff;
+}
 /* Media */
 @media (min-width:600px) {
     .nav-list {
