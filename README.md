@@ -30,7 +30,7 @@ The website will consist of three/four pages that are fully responsive and easy 
 ### Design
 ### Media
 
-
+favicon: https://www.flaticon.com/free-icon/sushi_651468
 
 Hero image: https://www.freepik.com/premium-photo/green-sushi-rolls-with-tobiko-green-caviar-shrimp-traditional-japanese-cuisine-top-view_25061247.htm#page=2&query=sushi&position=38&from_view=search&track=sph
 
