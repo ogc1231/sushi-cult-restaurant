@@ -111,6 +111,10 @@ img {
     padding: 2em;
 }
 
+.about-imgs {
+    padding: 2em;
+}
+
 .about-image1 {
     background-color: black;
 }
@@ -198,5 +202,12 @@ img {
 
     .about-imgs {
         display: flex;
+        justify-content: space-between;
+    }
+
+    .about-image1,
+    .about-image2,
+    .about-image3 {
+        width: 31.5%;
     }
 }
