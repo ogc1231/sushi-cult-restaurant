@@ -122,6 +122,13 @@ img {
     color: #ff3939;
 }
 
+
+/* Footer */
+
+.footer {
+    background-color: #ff3939;
+}
+
 /* Media */
 @media (min-width:600px) {
     .nav-list {
