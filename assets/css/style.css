@@ -28,19 +28,9 @@ body {
     border-bottom: 2px solid #ff3939;
 }
 
-.title {
-
-}
-
-.nav {
-
-}
-.nav-list {
-
-}
-
 .nav-item {
     list-style: none;
+    padding: 0.5em 1em;
 }
 
 .nav-link {
@@ -48,8 +38,13 @@ body {
     color: #fff
 }
 
-.current-page {
+.nav-link:hover,
+.nav-link:focus {
+    color: #555;
+}
 
+.current-page {
+    border-bottom: 2px solid #555;
 }
 
 
