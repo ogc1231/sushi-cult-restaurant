@@ -128,28 +128,30 @@ img {
 
 /* Menu */
 
+.menu {
+    background-color: #fff;
+}
+
 .menu-title {
     text-align: center;
+    color: #171717;
 }
 
 .menu-item {
     width: 80%;
     margin: 0 auto;
-}
-
-.menu-item {
     display: flex;
-    flex-direction: column;
-    justify-content: center;
+    justify-content: space-around;
     align-items: center;
-    background-color: #ff3939;
+    background-color: #555;
     border-radius: 8px;
     margin-bottom: 2em;
+    padding: 1em;
 }
 
 .menu-img {
-    width: 30%;
-    height: 30%;
+    width: 40%;
+    height: 40%;
 }
 
 
@@ -252,6 +254,12 @@ img {
     .menu-items {
         display: flex;
         justify-content: space-between;
+        align-items: center;
+    }
+
+    .menu-item {
+        flex-direction: column;
+        justify-content: center;
         align-items: center;
     }
 }
