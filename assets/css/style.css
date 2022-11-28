@@ -138,9 +138,14 @@ img {
     background-color: #fff;
 }
 
+.menu-banner {
+    margin: 0 auto;
+}
+
 .menu-title {
     text-align: center;
     color: #171717;
+    padding: 1em 0;
 }
 
 .menu-item {
@@ -159,17 +164,17 @@ img {
     max-width: 50%;
 }
 
+.menu-paragraph {
+    color: #171717;
+    max-width: 60%;
+    margin: 0 auto 1em auto;
+    text-align: center;
+}
+
 .menu-img {
     width: 50%;
     height: 50%;
 }
-
-
-
-
-
-
-
 
 /* Footer */
 
@@ -245,10 +250,16 @@ img {
         justify-content: center;
     }
 
+    .hero-text-heading {
+        font-size: 4.5rem;
+    }
+
     .hero-text {
         width: 50%;
+        font-size: 2.5rem;
         /* border: 2px solid red; */
     }
+    
 
     .hero-img {
         width: 50%;
@@ -266,6 +277,16 @@ img {
         width: 31.5%;
     }
 
+    .menu {
+        width: 80%;
+        margin:  auto;
+        border-radius: 8px;
+    }
+
+    .menu-banner {
+        width: 80%;
+    }
+    
     .menu-items {
         display: flex;
         justify-content: center;
