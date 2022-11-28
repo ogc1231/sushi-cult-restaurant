@@ -9,7 +9,7 @@
 body {
     color: #fff;
     background-color: #171717;
-    font-family:'Rubik', sans-serif;
+    font-family: 'Rubik', sans-serif;
 }
 
 .container {
@@ -126,6 +126,7 @@ img {
 .about-image1 {
     background-color: black;
 }
+
 /* Chef */
 
 .chef {
@@ -165,9 +166,8 @@ img {
 
 .form {
     display: inline-block;
-    margin: 0 auto;
+    margin: 11em auto;
     text-align: left;
-    max-width: 30%;
     border: 2px #fff solid;
     padding: 0 2rem;
 }
@@ -243,7 +243,7 @@ img {
     text-align: center;
     padding-top: 2em;
     font-size: 2.5rem;
-}   
+}
 
 /* Footer */
 
@@ -273,12 +273,12 @@ img {
 .social-linka:hover,
 .social-linka:focus,
 .credit-link:hover,
-.credit-link:focus  {
+.credit-link:focus {
     color: #555;
 }
 
 .credit {
-   text-align: center;
+    text-align: center;
 }
 
 .credit-link {
@@ -286,15 +286,13 @@ img {
     color: #fff;
 }
 
-
-
-
-
-
-
-
-
 /* Media */
+@media (min-width:500px) {
+    .form-div {
+        width: 75%;
+    }
+}
+
 @media (min-width:600px) {
     .nav-list {
         display: flex;
@@ -306,7 +304,10 @@ img {
     .about-text {
         font-size: 1.5rem;
     }
-    
+
+    .form-div {
+        width: 65%;
+    }
 }
 
 
@@ -321,7 +322,7 @@ img {
     .title {
         padding-left: 2em;
     }
-    
+
     .hero {
         display: flex;
         justify-content: center;
@@ -336,7 +337,7 @@ img {
         font-size: 2.5rem;
         /* border: 2px solid red; */
     }
-    
+
 
     .hero-img {
         width: 50%;
@@ -370,7 +371,7 @@ img {
     .club-banner {
         width: 80%;
     }
-    
+
     .menu-items {
         display: flex;
         justify-content: center;
@@ -381,6 +382,6 @@ img {
     .menu2 {
         width: 45%;
     }
-    
+
 
 }
