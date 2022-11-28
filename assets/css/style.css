@@ -256,12 +256,6 @@ img {
         width: 31.5%;
     }
 
-    .menu-items {
-        display: flex;
-        justify-content: space-between;
-        align-items: center;
-    }
-
     .menu-item {
         flex-direction: column;
         justify-content: center;
