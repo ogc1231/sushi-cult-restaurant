@@ -111,6 +111,10 @@ img {
     padding: 2em;
 }
 
+.about-image {
+    border-radius: 8px;
+}
+
 .about-image1 {
     background-color: black;
 }
