@@ -229,6 +229,12 @@ img {
     height: 50%;
 }
 
+/* Sushi Club */
+
+.club-banner {
+    margin: 0 auto;
+}
+
 /* Footer */
 
 .footer {
@@ -349,7 +355,8 @@ img {
         border-bottom-right-radius: 8px;
     }
 
-    .menu-banner {
+    .menu-banner,
+    .club-banner {
         width: 80%;
     }
     
