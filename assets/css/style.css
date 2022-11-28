@@ -156,6 +156,36 @@ img {
     height: 100vh;
 }
 
+.form-div {
+    display: block;
+    text-align: center;
+    margin: 0 auto;
+    width: 80%;
+}
+
+.form {
+    display: inline-block;
+    margin: 0 auto;
+    text-align: left;
+    max-width: 30%;
+    border: 2px #fff solid;
+    padding: 0 2rem;
+}
+
+.form-title {
+    text-align: center;
+}
+
+.input {
+    width: 100%;
+    margin-bottom: 2em;
+}
+
+.submit {
+    display: block;
+    margin: 0 auto;
+}
+
 /* Menu Page */
 
 .menu {

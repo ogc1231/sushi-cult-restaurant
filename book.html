@@ -26,45 +26,45 @@
     </header>
     <main>
         <section class="book">
-            <form method="POST" action="https://formdump.codeinstitute.net/">
-                <h2>Book a table</h2>
-                <label for="fname">First Name: </label>
-                <input type="text" id="fname" required placeholder="John">
-                <label for="lname">Last Name: </label>
-                <input type="text" id="lname" required placeholder="Smith"> 
-                <label for="email">Email: </label>
-                <input type="email" id="email" required placeholder="john@smith.com">
-                <label for="phone">Phone No: </label>
-                <input type="tel" id="phone" required placeholder="087 622 1425">
-                <label for="date">Date: </label>
-                <input type="date" id="date" required>
-                <label for="dropdown">Time</label>
-                <select name="dropdown" id="dropdown" required>
-                    <option value="">6:00pm</option>
-                    <option value="">6:30pm</option>
-                    <option value="">7:00pm</option>
-                    <option value="">7:30pm</option>
-                    <option value="">8:00pm</option>
-                    <option value="">8:30pm</option>
-                    <option value="">9:00pm</option>
-                    <option value="">9:30pm</option>
-                </select>
-                <label>Number of guests: </label>
-                <label for="1">1</label>
-                <input type="radio" name="radiobutton" id="1" value="0">
-                <label for="2">2</label>
-                <input type="radio" name="radiobutton" id="2" value="1">
-                <label for="3">3</label>
-                <input type="radio" name="radiobutton" id="3" value="2">
-                <label for="4">4</label>
-                <input type="radio" name="radiobutton" id="4" value="3">
-                <label for="5+">5+</label>
-                <input type="radio" name="radiobutton" id="5+" value="4">
-
-                
-                <input type="button" value="Book Now!" id="submit">
-                
-            </form>
+            <div class="form-div">
+                <form method="POST" action="https://formdump.codeinstitute.net/" class="form">
+                    <h2 class="form-title">Book a table</h2>
+                    <label for="fname">First Name: </label>
+                    <input class="input" type="text" id="fname" required placeholder="John">
+                    <label for="lname">Last Name: </label>
+                    <input class="input" type="text" id="lname" required placeholder="Smith"> 
+                    <label for="email">Email: </label>
+                    <input class="input" type="email" id="email" required placeholder="john@smith.com">
+                    <label for="phone">Phone No: </label>
+                    <input class="input" type="tel" id="phone" required placeholder="087 622 1425">
+                    <label for="date">Date: </label>
+                    <input type="date" id="date" required>
+                    <label for="dropdown">Time</label>
+                    <select name="dropdown" id="dropdown" required>
+                        <option value="">6:00pm</option>
+                        <option value="">6:30pm</option>
+                        <option value="">7:00pm</option>
+                        <option value="">7:30pm</option>
+                        <option value="">8:00pm</option>
+                        <option value="">8:30pm</option>
+                        <option value="">9:00pm</option>
+                        <option value="">9:30pm</option>
+                    </select><br>
+                    <label>Number of guests: </label>
+                    <label for="1">1</label>
+                    <input type="radio" name="radiobutton" id="1" value="0">
+                    <label for="2">2</label>
+                    <input type="radio" name="radiobutton" id="2" value="1">
+                    <label for="3">3</label>
+                    <input type="radio" name="radiobutton" id="3" value="2">
+                    <label for="4">4</label>
+                    <input type="radio" name="radiobutton" id="4" value="3">
+                    <label for="5+">5+</label>
+                    <input type="radio" name="radiobutton" id="5+" value="4">
+                    <input class="submit" type="button" value="Book Now!" id="submit">
+                    
+                </form>
+            </div>
         </section>
     
 
