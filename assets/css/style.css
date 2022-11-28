@@ -283,7 +283,8 @@ img {
     .menu {
         width: 80%;
         margin:  auto;
-        border-radius: 8px;
+        border-bottom-left-radius: 8px;
+        border-bottom-right-radius: 8px;
     }
 
     .menu-banner {
