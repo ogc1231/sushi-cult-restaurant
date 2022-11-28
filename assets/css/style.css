@@ -232,8 +232,18 @@ img {
 /* Sushi Club */
 
 .club-banner {
+    background-image: url(../images/sushiclubbanner.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 35vh;
     margin: 0 auto;
 }
+
+.club-title {
+    text-align: center;
+    padding-top: 2em;
+    font-size: 2.5rem;
+}   
 
 /* Footer */
 
