@@ -282,7 +282,7 @@ img {
 
     .menu {
         width: 80%;
-        margin:  auto;
+        margin: auto;
         border-bottom-left-radius: 8px;
         border-bottom-right-radius: 8px;
     }
@@ -294,7 +294,7 @@ img {
     .menu-items {
         display: flex;
         justify-content: center;
-        align-items: flex-start;
+        align-items: center;
     }
 
     .menu1,
