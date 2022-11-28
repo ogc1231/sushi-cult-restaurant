@@ -146,8 +146,17 @@ img {
 
 }
 
+/* Booking page */
 
-/* Menu */
+.book {
+    background-image: url(../images/book-background.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+}
+
+/* Menu Page */
 
 .menu {
     background-color: #fff;
