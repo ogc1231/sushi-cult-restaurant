@@ -125,6 +125,8 @@ img {
     background-color: #171717;
 }
 
+
+
 .chef-quote {
     color: #ff3939;
 }
@@ -245,12 +247,12 @@ img {
 
     .hero-text {
         width: 50%;
-        border: 2px solid red;
+        /* border: 2px solid red; */
     }
 
     .hero-img {
         width: 50%;
-        border: 2px solid red;
+        /* border: 2px solid red; */
     }
 
     .about-imgs {
@@ -275,9 +277,4 @@ img {
         width: 45%;
     }
 
-    /* .menu-item {
-        flex-direction: column;
-        justify-content: center;
-        align-items: center;
-    }
-} */
+}
