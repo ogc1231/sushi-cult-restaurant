@@ -179,7 +179,8 @@ img {
 /* Footer */
 
 .footer {
-    background-color: #ff3939;
+    background-color: #171717;
+    padding: 1.2em 0;
 }
 
 .social-links {
@@ -191,11 +192,13 @@ img {
 .social-link {
     list-style: none;
     padding: 0 0.2em;
+    margin-bottom: 0.8em;
 }
 
 .social-linka {
     text-decoration: none;
     color: #fff;
+    padding: 0 1em;
 }
 
 .social-linka:hover,
