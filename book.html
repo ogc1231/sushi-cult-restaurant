@@ -27,21 +27,21 @@
     <main>
         <section class="book">
             <div class="form-div">
-                <form method="POST" action="https://formdump.codeinstitute.net/" class="form">
+                <form  action="confirmation.html" class="form">
                     <h2 class="form-title">Book a table</h2>
                     <label for="fname">First Name: </label>
-                    <input class="input" type="text" id="fname" required placeholder="John">
+                    <input class="input" type="text" id="fname" name="fname" required placeholder="John">
                     <label for="lname">Last Name: </label>
-                    <input class="input" type="text" id="lname" required placeholder="Smith"> 
+                    <input class="input" type="text" id="lname" name="lname" required placeholder="Smith"> 
                     <label for="email">Email: </label>
-                    <input class="input" type="email" id="email" required placeholder="john@smith.com">
+                    <input class="input" type="email" id="email" name="email" required placeholder="john@smith.com">
                     <label for="phone">Phone No: </label>
-                    <input class="input" type="tel" id="phone" required placeholder="087 622 1425">
+                    <input class="input" type="tel" id="phone" name="phone" required placeholder="087 622 1425">
                     <label for="date">Date: </label>
-                    <input type="date" id="date" required>
-                    <label for="dropdown">Time</label>
-                    <select name="dropdown" id="dropdown" required>
-                        <option value="">6:00pm</option>
+                    <input type="date" id="date" required name="date">
+                    <label for="time">Time</label>
+                    <select name="time" id="time" required>
+                        <option value="6:00pm">6:00pm</option>
                         <option value="">6:30pm</option>
                         <option value="">7:00pm</option>
                         <option value="">7:30pm</option>
@@ -52,16 +52,17 @@
                     </select><br>
                     <label>Number of guests: </label>
                     <label for="1">1</label>
-                    <input type="radio" name="radiobutton" id="1" value="0">
+                    <input type="radio" name="guests" id="1" value="0">
                     <label for="2">2</label>
-                    <input type="radio" name="radiobutton" id="2" value="1">
+                    <input type="radio" name="guests" id="2" value="1">
                     <label for="3">3</label>
-                    <input type="radio" name="radiobutton" id="3" value="2">
+                    <input type="radio" name="guests" id="3" value="2">
                     <label for="4">4</label>
-                    <input type="radio" name="radiobutton" id="4" value="3">
+                    <input type="radio" name="guests" id="4" value="3">
                     <label for="5+">5+</label>
-                    <input type="radio" name="radiobutton" id="5+" value="4">
-                    <input class="submit" type="button" value="Book Now!" id="submit">
+                    <input type="radio" name="guests" id="5+" value="4">
+                    <button class="submit" type="submit" id="submit">Book Now!</button>
+                    
                     
                 </form>
             </div>
@@ -77,7 +78,7 @@
                 <li class="social-link"><a class="social-linka" href="https://twitter.com" target="_blank" rel="noopener noreferrer nofollow" aria-label="Follow us on Twitter (opens in a new tab)"><i class="fa-brands fa-twitter"></i></a></li>
                 <li class="social-link"><a class="social-linka" href="https://www.tiktok.com" target="_blank" rel="noopener noreferrer nofollow" aria-label="Follow us on TikTok (opens in a new tab)"><i class="fa-brands fa-tiktok"></i></a></li>
             </ul>
-            <p class="credit">Developed by<a class="credit-link" href="https://github.com/ogc1231" target="_blank"> Oliver Craigie</a> 2022</p>
+            <p class="credit">Developed by<a class="credit-link" href="https://github.com/ogc1231" target="_blank" rel="noopener noreferrer nofollow"> Oliver Craigie</a> 2022</p>
                 
         </footer>
 
