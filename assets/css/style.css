@@ -123,12 +123,19 @@ img {
 .chef {
     padding: 2em;
     background-color: #171717;
+    text-align: center;
+    margin: 0 auto;
+    font-size: 1rem;
 }
 
 
 
 .chef-quote {
     color: #ff3939;
+    max-width: 1200px;
+    text-align: center;
+    margin: 1em auto;
+
 }
 
 
@@ -166,7 +173,6 @@ img {
 
 .menu-paragraph {
     color: #171717;
-    max-width: 60%;
     margin: 0 auto 1em auto;
     text-align: center;
 }
@@ -233,6 +239,9 @@ img {
         align-items: center;
     }
 
+    .chef {
+        font-size: 1.5rem;
+    }
     
 }
 
@@ -278,6 +287,10 @@ img {
     .about-image2,
     .about-image3 {
         width: 31.5%;
+    }
+
+    .chef {
+        font-size: 2rem;
     }
 
     .menu {
