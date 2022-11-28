@@ -225,6 +225,11 @@ img {
         justify-content: space-between;
         align-items: center;
     }
+
+    .title {
+        padding-left: 2em;
+    }
+    
     .hero {
         display: flex;
         justify-content: center;
