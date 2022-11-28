@@ -256,9 +256,20 @@ img {
         width: 31.5%;
     }
 
-    .menu-item {
+    .menu-items {
+        display: flex;
+        justify-content: center;
+        align-items: flex-start;
+    }
+
+    .menu1,
+    .menu2 {
+        width: 45%;
+    }
+
+    /* .menu-item {
         flex-direction: column;
         justify-content: center;
         align-items: center;
     }
-}
+} */
