@@ -104,7 +104,15 @@ img {
 }
 
 .about-text {
+    font-size: 1rem;
     padding: 2em;
+    max-width: 1500px;
+    text-align: center;
+    margin: 1em auto;
+}
+
+.about-title {
+    margin-bottom: 1em;
 }
 
 .about-imgs {
@@ -132,7 +140,7 @@ img {
 
 .chef-quote {
     color: #ff3939;
-    max-width: 1200px;
+    max-width: 1500px;
     text-align: center;
     margin: 1em auto;
 
@@ -239,7 +247,8 @@ img {
         align-items: center;
     }
 
-    .chef {
+    .chef,
+    .about-text {
         font-size: 1.5rem;
     }
     
@@ -289,7 +298,8 @@ img {
         width: 31.5%;
     }
 
-    .chef {
+    .chef,
+    .about-text {
         font-size: 2rem;
     }
 
