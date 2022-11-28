@@ -43,6 +43,8 @@ https://www.freepik.com/premium-photo/sushi-maki-with-salmon-pieces-delicious-su
 
 https://www.freepik.com/premium-photo/vegetarian-sushi-with-avocado-tomatoes-sushi-set-top-view-free-space-your-text_25686612.htm#page=3&query=sushi&position=25&from_view=search&track=sph
 
+https://www.justonecookbook.com/temaki-sushi-hand-roll/
+
 
 
 
