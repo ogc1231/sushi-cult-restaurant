@@ -150,7 +150,7 @@ img {
 /* Booking page */
 
 .book {
-    background-image: url(../images/book-background.jpeg);
+    background-image: url(../images/book-background.webp);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -232,7 +232,7 @@ img {
 /* Sushi Club */
 
 .club-banner {
-    background-image: url(../images/sushiclubbanner.jpeg);
+    background-image: url(../images/club-banner.webp);
     background-size: cover;
     background-repeat: no-repeat;
     height: 35vh;
