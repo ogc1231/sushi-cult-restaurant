@@ -14,6 +14,8 @@ Live site: https://ogc1231.github.io/sushi-cult-restaurant/
 
 I used [Coolors.co](https://coolors.co/171717-ff3939-555555-000000-ffffff) to help choose a colour scheme that would be visually appealing and and accesible for users.
 
+![Colour Scheme](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/coolor%20scheme.PNG)
+
 ### Typography
 
 ## Features
