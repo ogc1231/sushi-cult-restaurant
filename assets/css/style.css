@@ -321,6 +321,15 @@ form-info {
     color: #fff;
 }
 
+/* Confirmation Page */
+.confirmation {
+    text-align: center;
+}
+
+.confirmation-title {
+    margin-bottom: 1em;
+}
+
 /* Media */
 @media (min-width:500px) {
     .form-div {
