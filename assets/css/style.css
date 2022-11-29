@@ -179,7 +179,8 @@ img {
     text-align: left;
     border: 2px #fff solid;
     padding: 5em 5rem;
-    background-color: rgba(0, 0, 0, 0.6)
+    background-color: rgba(0, 0, 0, 0.6);
+    border-radius: 4px;
 }
 
 .form-title {
