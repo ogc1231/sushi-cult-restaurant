@@ -221,7 +221,7 @@ form-info {
     margin: 0 auto;
 }
 
-/* Menu Page */
+/* Our Food Page */
 
 .menu {
     background-color: #fff;
@@ -235,6 +235,7 @@ form-info {
     text-align: center;
     color: #171717;
     padding: 1em 0;
+    font-size: 2rem;
 }
 
 .menu-item {
@@ -257,6 +258,10 @@ form-info {
     color: #171717;
     margin: 0 auto 1em auto;
     text-align: center;
+}
+
+.menu-bottom {
+    padding-bottom: 1em;
 }
 
 .menu-img {
@@ -361,6 +366,10 @@ form-info {
         width: 65%;
     }
 
+    .menu-title {
+        font-size: 2.5rem;
+    }
+
 }
 
 @media (min-width:800px) {
@@ -391,10 +400,15 @@ form-info {
         font-size: 4.5rem;
     }
 
-    .hero-text {
+    .hero-text,
+    .menu-paragraph {
         width: 50%;
-        font-size: 2.5rem;
+        font-size: 2.3rem;
         /* border: 2px solid red; */
+    }
+
+    .menu-bottom {
+        font-size: 1.4rem;
     }
 
 
