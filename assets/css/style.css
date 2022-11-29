@@ -276,7 +276,7 @@ form-info {
 
 .club-title {
     text-align: center;
-    padding-top: 2em;
+    padding-top: 0.4em;
     font-size: 2.5rem;
 }
 
@@ -454,6 +454,10 @@ form-info {
         font-size: 2rem;
     }
 
+    .club-title {
+        padding-top: 0.8em;
+    }
+
 
 }
 
@@ -472,5 +476,9 @@ form-info {
 @media (min-width:1200px) {
     .form-div {
         width: 40%;
+    }
+
+    .club-title {
+        padding-top: 1.5em;
     }
 }
