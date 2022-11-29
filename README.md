@@ -25,6 +25,9 @@ I used [Coolors.co](https://coolors.co/171717-ff3939-555555-000000-ffffff) to he
 
 ### Typography
 
+![Rubik](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/rubik-font.PNG)
+![Karla](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/karla-font.PNG)
+
 ## Features
 ### Home Page
 ### Menu Page
