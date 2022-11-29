@@ -24,7 +24,7 @@ I used [Coolors.co](https://coolors.co/171717-ff3939-555555-000000-ffffff) to he
 ![Colour Scheme](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/coolor-scheme.PNG)
 
 ### Typography
-I used [Google Fonts](https://fonts.google.com/) to import the fonts Rubix for headings and Karla for body text.
+I used [Google Fonts](https://fonts.google.com/specimen/Rubik) to import the fonts Rubix for headings and Karla for body text.
 
 ![Rubik](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/rubik-font.PNG)
 ![Karla](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/karla-font.PNG)
