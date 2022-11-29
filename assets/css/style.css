@@ -575,6 +575,18 @@ img {
     }
 
     .make-text {
-        font-size: 1.5rem;
+        font-size: 2rem;
+    }
+
+    .make-title {
+        font-size: 4rem;
+    }
+
+    .make-list {
+        margin-top: 2.5em;
+    }
+
+    .make-skill {
+        font-size: 2.5rem;
     }
 }
