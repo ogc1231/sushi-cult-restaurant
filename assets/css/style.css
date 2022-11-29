@@ -368,6 +368,7 @@ form-info {
         display: flex;
         justify-content: center;
         align-items: center;
+        margin-bottom: 0.7rem;
     }
 
     .chef,
@@ -398,7 +399,7 @@ form-info {
         justify-content: space-between;
         align-items: center;
         padding: 1.5em 0;
-        font-size: 1.2rem;
+        font-size: 1.1rem;
     }
 
     .title {
