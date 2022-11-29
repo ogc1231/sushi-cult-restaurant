@@ -25,7 +25,7 @@ h4 {
 }
 
 
-/* Header and nav bar */
+/* Header and Nav Bar Section */
 .header {
     background-color: #171717;
     width: 80%;
@@ -60,7 +60,7 @@ h4 {
     border-bottom: 2px solid #fff;
 }
 
-/* Hero section */
+/* Hero Section */
 .hero {
     background-color: #171717;
     padding: 2em;
@@ -109,7 +109,7 @@ img {
     width: 100%;
 }
 
-/* About */
+/* About Section */
 .about {
     background-color: #171717;
 }
@@ -138,7 +138,7 @@ img {
     background-color: black;
 }
 
-/* Chef */
+/* Chef Section */
 .chef {
     padding: 2em;
     background-color: #171717;
@@ -155,7 +155,7 @@ img {
 
 }
 
-/* Booking page */
+/* Booking Page */
 .book {
     background-image: url(../images/book-background.webp);
     background-size: cover;
@@ -270,7 +270,7 @@ img {
     height: 50%;
 }
 
-/* Sushi Club */
+/* Sushi Club Page */
 .club-banner {
     background-image: url(../images/club-banner.webp);
     background-size: cover;
@@ -285,7 +285,7 @@ img {
     font-size: 2.5rem;
 }
 
-/* Footer */
+/* Footer Section */
 .footer {
     background-color: #171717;
     padding: 1.2em 0;
