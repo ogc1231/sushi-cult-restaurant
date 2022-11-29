@@ -161,7 +161,8 @@ img {
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
-    height: 120vh;
+    height: 100%;
+    background-color: #171717;
 }
 
 .form-div {
