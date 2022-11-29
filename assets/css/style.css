@@ -299,6 +299,11 @@ img {
     padding: 2rem 2rem;
 }
 
+.make-bottom-text {
+    font-size: 80%;
+    margin-top: 1rem;
+}
+
 .make-title {
     margin-bottom: 1rem;
     color: #ff3939;
@@ -419,12 +424,15 @@ img {
         display: flex;
         justify-content: center;
         align-items: center;
-        margin-top: 2em;
     }
 
     .make-text {
         align-self: flex-start;
         width: 50%;
+    }
+
+    .left {
+        padding-right: 1rem;
     }
 
     .make-img {
