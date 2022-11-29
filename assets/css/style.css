@@ -325,6 +325,11 @@ img {
     margin-bottom: 0.5em;
 }
 
+.make-img2 {
+    width: 50%;
+    display: none;
+}
+
 /* Footer Section */
 .footer {
     background-color: #171717;
@@ -438,6 +443,14 @@ img {
     .make-img {
         width: 50%;
     }
+
+    .make-img {
+        display: none;
+    }
+
+    .make-img2 {
+        display: inline;
+    }
 }
 
 @media (min-width:900px) {
@@ -534,6 +547,14 @@ img {
     .club-title {
         padding-top: 0.8em;
     }
+
+    .make-img {
+        display: inline;
+    }
+
+    .make-img2 {
+        display: none;
+    }
 }
 
 @media (min-width:1000px) {
@@ -596,5 +617,27 @@ img {
 
     .make-skill {
         font-size: 2.5rem;
+    }
+
+    .make-img {
+        display: none;
+    }
+
+    .make-img2 {
+        display: inline;
+    }
+}
+
+@media (min-width:1600px) {
+    .make-img {
+        display: inline;
+    }
+
+    .make-img2 {
+        display: none;
+    }
+
+    .make-bottom-text {
+        margin-top: 2em;
     }
 }
