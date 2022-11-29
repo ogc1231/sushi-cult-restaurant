@@ -9,12 +9,12 @@ Live link to website: https://ogc1231.github.io/sushi-cult-restaurant/index.html
 
 ## UX & Design
 ### User Stories
-- As a user, I want to see the opening hours of the restaurant
-- As a user, I want to be able to book a table
-- As a user, I want to be able to follow the restaurant on social media
-- As a user, I want to be able to the food the restaurant makes
-- As a user, I want to learn about the chef's background
-- As a user, I want to able to learn about the sushi masterclass
+- As a user, I want to see the opening hours of the restaurant.
+- As a user, I want to be able to book a table.
+- As a user, I want to be able to follow the restaurant on social media.
+- As a user, I want to be able to the food the restaurant makes.
+- As a user, I want to learn about the chef's background.
+- As a user, I want to able to learn about the sushi masterclass.
 ### Wireframes?
 
 ### Colour Scheme
@@ -24,6 +24,7 @@ I used [Coolors.co](https://coolors.co/171717-ff3939-555555-000000-ffffff) to he
 ![Colour Scheme](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/coolor-scheme.PNG)
 
 ### Typography
+I used [Google Fonts](https://fonts.google.com/) to import the fonts Rubix for headings and Karla for body text.
 
 ![Rubik](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/rubik-font.PNG)
 ![Karla](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/karla-font.PNG)
