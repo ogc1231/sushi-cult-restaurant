@@ -183,8 +183,21 @@ img {
 
 .form-title {
     text-align: center;
-    margin-bottom: 1em;
+    margin-bottom: 0.2em;
     font-size: 1.2rem;
+}
+
+.form-hours {
+    text-align: center;
+    font-size: 1rem;
+}
+
+.hour-top {
+    margin-bottom: 0.1em;
+}
+
+.hour-bottom {
+    margin-bottom: 0.3em;
 }
 
 .input {
