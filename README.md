@@ -69,6 +69,9 @@ https://www.freepik.com/premium-photo/sushi-sashimi-set_3878943.htm#page=8&query
 sushi-roll: 
 https://stock.adobe.com/ie/search?filters%5Bcontent_type%3Aphoto%5D=1&filters%5Bcontent_type%3Aillustration%5D=1&filters%5Bcontent_type%3Azip_vector%5D=1&filters%5Bcontent_type%3Avideo%5D=1&filters%5Bcontent_type%3Atemplate%5D=1&filters%5Bcontent_type%3A3d%5D=1&filters%5Bcontent_type%3Aimage%5D=1&order=relevance&safe_search=1&k=sushi+making&search_page=1&search_type=usertyped&acp=&aco=sushi+making&get_facets=0&asset_id=281456543
 
+sushi-roll-tall:
+https://stock.adobe.com/ie/search/images?filters%5Bcontent_type%3Aphoto%5D=1&filters%5Bcontent_type%3Aillustration%5D=1&filters%5Bcontent_type%3Azip_vector%5D=1&filters%5Bcontent_type%3Aimage%5D=1&filters%5Borientation%5D=vertical&k=sushi+making&order=relevance&price%5B%24%5D=1&safe_search=1&search_type=filter-select&get_facets=1&asset_id=66013464
+
 temaki:
 https://www.justonecookbook.com/temaki-sushi-hand-roll/
 
