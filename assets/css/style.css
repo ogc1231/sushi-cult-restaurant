@@ -12,18 +12,18 @@ body {
     font-family: 'Karla', sans-serif;
 }
 
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+/* Headings */
 h1,
 h2,
 h3,
 h4 {
     font-family: 'Rubik', sans-serif;
 }
-
-.container {
-    width: 80%;
-    margin: 0 auto;
-}
-
 
 /* Header and Nav Bar Section */
 .header {
@@ -152,7 +152,6 @@ img {
     max-width: 1500px;
     text-align: center;
     margin: 1em auto;
-
 }
 
 /* Booking Page */
@@ -599,7 +598,7 @@ img {
     .header {
         font-size: 1.4rem;
     }
-    
+
     .form-div {
         width: 40%;
         font-size: 1.4rem;
