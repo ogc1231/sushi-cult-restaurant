@@ -398,6 +398,7 @@ form-info {
         justify-content: space-between;
         align-items: center;
         padding: 1.5em 0;
+        font-size: 1.2rem;
     }
 
     .title {
@@ -501,6 +502,10 @@ form-info {
 }
 
 @media (min-width:1200px) {
+    .header {
+        font-size: 1.4rem;
+    }
+    
     .form-div {
         width: 40%;
     }
