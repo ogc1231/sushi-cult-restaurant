@@ -3,7 +3,7 @@ This is the website for Sushi Cult, a sushi resturant based in Dublin City, Irel
 
 The website aim is to build a fully responsive and easy to navigate website using HTML and CSS.
 
-![Live link to website](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/index.html)
+![Live link to website](https://ogc1231.github.io/sushi-cult-restaurant/index.html)
 
 ![Colour Scheme](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/website-preview.PNG)
 
