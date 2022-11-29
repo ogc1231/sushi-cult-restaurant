@@ -275,14 +275,29 @@ img {
     background-image: url(../images/club-banner.webp);
     background-size: cover;
     background-repeat: no-repeat;
-    height: 35vh;
+    height: 22vh;
     margin: 0 auto;
+    width: 80%;
 }
 
 .club-title {
     text-align: center;
     padding-top: 0.4em;
-    font-size: 2.5rem;
+    font-size: 2rem;
+}
+
+.make {
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.make-text {
+
+}
+
+.make-img {
+
 }
 
 /* Footer Section */
@@ -505,5 +520,13 @@ img {
 
     .menu-text p {
         font-size: 1.5rem;
+    }
+
+    .club-banner {
+        height: 35vh;
+    }
+
+    .club-title {
+        font-size: 2.5rem;
     }
 }
