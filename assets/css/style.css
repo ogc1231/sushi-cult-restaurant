@@ -35,6 +35,11 @@ h4 {
     border-bottom: 2px solid #ff3939;
 }
 
+.title {
+    text-decoration: none;
+    color: #fff;
+}
+
 .nav-item {
     list-style: none;
     padding: 0.2em 1em;
