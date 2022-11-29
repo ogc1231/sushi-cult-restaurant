@@ -389,6 +389,10 @@ img {
 }
 
 .confirmation-title {
+    margin-bottom: 0.5em;
+}
+
+.confirmation-mid {
     margin-bottom: 1em;
 }
 
