@@ -27,6 +27,9 @@ Live site: https://ogc1231.github.io/sushi-cult-restaurant/
 ## Credits
 ### Code
 ### Content
+
+sushi types descriptions:
+https://restaurantclicks.com/types-of-sushi/
 ### Design
 ### Media
 
