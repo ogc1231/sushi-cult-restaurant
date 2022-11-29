@@ -31,18 +31,18 @@ I used [Google Fonts](https://fonts.google.com/specimen/Rubik) to import the fon
 
 ## Features
 ### Common Elements
-
 The following elements appear on each page of the website.
+
 -Logo and Navigation Bar
-    -The favicon located in the browser tab to fit the brand of Sushi Cult.
+    - The favicon located in the browser tab to fit the brand of Sushi Cult.
     ![Logo and Navigation Bar](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/nav-bar.PNG)
 
 -Favicon
-    -The favicon located in the browser tab to fit the brand of Sushi Cult.
+    - The favicon located in the browser tab to fit the brand of Sushi Cult.
     ![Favicon](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/favicon.png)
 
 -Footer
-    -The favicon located in the browser tab to fit the brand of Sushi Cult.
+    - The favicon located in the browser tab to fit the brand of Sushi Cult.
     ![Footer](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/footer.PNG)
 ### Home Page
 
