@@ -11,6 +11,9 @@ Live site: https://ogc1231.github.io/sushi-cult-restaurant/
 ### Wireframes?
 ### User Stories
 ### Colour Scheme
+
+I used [Coolors.co](https://coolors.co/171717-ff3939-555555-000000-ffffff) to help choose a colour scheme that would be visually appealing and and accesible for users.
+
 ### Typography
 
 ## Features
