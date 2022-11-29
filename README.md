@@ -8,8 +8,15 @@ Live site: https://ogc1231.github.io/sushi-cult-restaurant/
 ![Colour Scheme](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/website-preview.PNG)
 
 ## UX & Design
-### Wireframes?
 ### User Stories
+- As a user, I want to see the opening hours of the restaurant
+- As a user, I want to be able to book a table
+- As a user, I want to be able to follow the restaurant on social media
+- As a user, I want to be able to the food the restaurant makes
+- As a user, I want to learn about the chef's background
+- As a user, I want to able to learn about the sushi masterclass
+### Wireframes?
+
 ### Colour Scheme
 
 I used [Coolors.co](https://coolors.co/171717-ff3939-555555-000000-ffffff) to help choose a colour scheme that would be visually appealing and and accesible for users.
