@@ -59,7 +59,7 @@ The footer located at the bottom of each webpage, with links to social media pag
 
 ### Menu Page
 
-![Menu Page](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/homepage-full.png)
+![Menu Page](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/menu-full.png)
 
 ### Sushi Club Page
 
