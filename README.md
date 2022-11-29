@@ -33,15 +33,15 @@ I used [Google Fonts](https://fonts.google.com/specimen/Rubik) to import the fon
 ### Common Elements
 
 The following elements appear on each page of the website.
--Logo and Navigation Bar
+-__Logo and Navigation Bar__
     -The favicon located in the browser tab to fit the brand of Sushi Cult.
     ![Logo and Navigation Bar](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/nav-bar.PNG)
 
--Favicon
+-__Favicon__
     -The favicon located in the browser tab to fit the brand of Sushi Cult.
     ![Favicon](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/favicon.png)
 
--Footer
+-__Footer__
     -The favicon located in the browser tab to fit the brand of Sushi Cult.
     ![Footer](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/footer.PNG)
 ### Home Page
