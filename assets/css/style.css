@@ -26,7 +26,6 @@ h4 {
 
 
 /* Header and nav bar */
-
 .header {
     background-color: #171717;
     width: 80%;
@@ -60,9 +59,7 @@ h4 {
     border-bottom: 2px solid #fff;
 }
 
-
 /* Hero section */
-
 .hero {
     background-color: #171717;
     padding: 2em;
@@ -112,7 +109,6 @@ img {
 }
 
 /* About */
-
 .about {
     background-color: #171717;
 }
@@ -142,7 +138,6 @@ img {
 }
 
 /* Chef */
-
 .chef {
     padding: 2em;
     background-color: #171717;
@@ -150,8 +145,6 @@ img {
     margin: 0 auto;
     font-size: 1rem;
 }
-
-
 
 .chef-quote {
     color: #ff3939;
@@ -162,7 +155,6 @@ img {
 }
 
 /* Booking page */
-
 .book {
     background-image: url(../images/book-background.webp);
     background-size: cover;
@@ -192,10 +184,6 @@ img {
     text-align: center;
     margin-bottom: 1em;
     font-size: 1.2rem;
-}
-
-form-info {
-    
 }
 
 .input {
@@ -229,7 +217,6 @@ form-info {
 }
 
 /* Our Food Page */
-
 .menu {
     background-color: #fff;
 }
@@ -283,7 +270,6 @@ form-info {
 }
 
 /* Sushi Club */
-
 .club-banner {
     background-image: url(../images/club-banner.webp);
     background-size: cover;
@@ -299,7 +285,6 @@ form-info {
 }
 
 /* Footer */
-
 .footer {
     background-color: #171717;
     padding: 1.2em 0;
@@ -348,7 +333,7 @@ form-info {
     margin-bottom: 1em;
 }
 
-/* Media */
+/* Media Queries */
 @media (min-width:500px) {
     .form-div {
         width: 75%;
@@ -383,7 +368,6 @@ form-info {
     .menu-title {
         font-size: 2.5rem;
     }
-
 }
 
 @media (min-width:800px) {
@@ -391,7 +375,6 @@ form-info {
         width: 60%;
     }
 }
-
 
 @media (min-width:900px) {
     .header {
@@ -419,17 +402,14 @@ form-info {
     .menu-paragraph {
         width: 50%;
         font-size: 2.3rem;
-        /* border: 2px solid red; */
     }
 
     .menu-bottom {
         font-size: 1.4rem;
     }
 
-
     .hero-img {
         width: 50%;
-        /* border: 2px solid red; */
     }
 
     .about-imgs {
@@ -486,8 +466,6 @@ form-info {
     .club-title {
         padding-top: 0.8em;
     }
-
-
 }
 
 @media (min-width:1000px) {
