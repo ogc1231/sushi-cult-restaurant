@@ -5,7 +5,7 @@ The website will consist of three/four pages that are fully responsive and easy 
 
 Live site: https://ogc1231.github.io/sushi-cult-restaurant/
 
-
+![Colour Scheme](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/website-preview.PNG)
 
 ## UX & Design
 ### Wireframes?
