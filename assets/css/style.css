@@ -82,17 +82,17 @@ h4 {
     order: -1;
 }
 
-.hero-btn {
+.btn {
     text-decoration: none;
     color: #fff;
     background-color: #ff3939;
-    padding: 0.1em 1em;
+    padding: 0.3em 1em;
     border-radius: 100px;
     border: 2px solid black;
 }
 
-.hero-btn:hover,
-.hero-btn:focus {
+.btn:hover,
+.btn:focus {
     background-color: rgba(0, 0, 0, 0);
     border: 2px solid #fff;
 }
@@ -187,9 +187,33 @@ img {
     font-size: 1.2rem;
 }
 
+form-info {
+    
+}
+
 .input {
     width: 100%;
-    margin-bottom: 2em;
+    margin-bottom: 1em;
+    border-radius: 4px;
+    padding: 0.2em 0.4em;
+    font-family: inherit;
+}
+
+.input:hover,
+.input:focus {
+    outline: none;
+    border-color: #ff3939;
+}
+
+.form-btn {
+    font-size: 1.2rem;
+}
+
+.date,
+.time,
+.guests {
+    margin-bottom: 1em;
+    font-family: inherit;
 }
 
 .submit {
@@ -306,6 +330,10 @@ img {
     .form-title {
         font-size: 1.5rem;
     }
+
+    .form-btn {
+        font-size: 1.5rem;
+    }
 }
 
 @media (min-width:600px) {
@@ -410,6 +438,10 @@ img {
     }
 
     .form-title {
+        font-size: 2rem;
+    }
+
+    .form-btn {
         font-size: 2rem;
     }
 
