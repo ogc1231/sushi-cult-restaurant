@@ -30,9 +30,19 @@ I used [Google Fonts](https://fonts.google.com/specimen/Rubik) to import the fon
 ![Karla](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/karla-font.PNG)
 
 ## Features
+### Common Elements
+
+The following elements appear on each page of the website.
+-Logo and Navigation Bar
+-Favicon
+-Footer
+-
 ### Home Page
+
 ### Menu Page
+
 ### Booking Page
+
 ### Sushi Club Page
 
 ## Testing
