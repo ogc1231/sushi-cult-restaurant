@@ -30,34 +30,60 @@ Live site: https://ogc1231.github.io/sushi-cult-restaurant/
 ### Design
 ### Media
 
-menu images 
-https://www.freepik.com/premium-photo/set-sushi-soy-sauce-japanese-traditional-cuisine-top-view-rustic-style_22415215.htm#query=sushi&position=9&from_view=search&track=sph
-
-https://www.freepik.com/premium-photo/sushi-rolls-california-with-sesame-salmon-avocado-set-sushi-rolls-seafood_29828130.htm#query=Uramaki&position=30&from_view=search&track=sph
-
-https://www.freepik.com/premium-photo/sushi-sashimi-set_3878943.htm#page=8&query=Nigiri&position=13&from_view=search&track=sph
-
-https://www.freepik.com/premium-photo/close-up-set-tree-sushi-with-salmon-tuna-shrimp-slate_19520393.htm#page=4&query=Nigiri&position=40&from_view=search&track=sph
-
-https://imgbin.com/png/jgzxcKkD/california-roll-sashimi-sushi-temaki-zushi-food-png
-
-https://www.freepik.com/premium-photo/sushi-maki-with-salmon-pieces-delicious-sushi-japanese-cuisine_31840175.htm#page=2&query=sushi%20maki&position=34&from_view=search&track=sph
-
-https://www.freepik.com/premium-photo/vegetarian-sushi-with-avocado-tomatoes-sushi-set-top-view-free-space-your-text_25686612.htm#page=3&query=sushi&position=25&from_view=search&track=sph
-
-https://www.justonecookbook.com/temaki-sushi-hand-roll/
-
-
-
-
-favicon: https://www.flaticon.com/free-icon/sushi_651468
-
-Hero image: https://www.freepik.com/premium-photo/green-sushi-rolls-with-tobiko-green-caviar-shrimp-traditional-japanese-cuisine-top-view_25061247.htm#page=2&query=sushi&position=38&from_view=search&track=sph
-
-about images
-
+about-image1:
 https://www.freepik.com/premium-photo/sushi-california-roll-with-salmon-cucumber-cream-cheese-black-background-with-reflection_33047153.htm#page=3&query=sushi&position=42&from_view=search&track=sph
 
+about-image2:
 https://img.freepik.com/free-photo/top-view-philadelphia-rolls-stand-with-ginger-soy-sauce-avacado-boiled-rice-sesame-seeds-black-table_141793-13166.jpg?w=740&t=st=1669312503~exp=1669313103~hmac=d97c13ca999c93390416c1e9c660a0b4589ad78a800e1aad618aaf0781efd2c6
 
+about-image3:
 https://www.freepik.com/premium-photo/enjoy-your-nigiri-sushi-with-octopus-prawn-salmon_30140793.htm#page=4&query=sushi&position=17&from_view=search&track=sph
+
+book-background: 
+https://stock.adobe.com/ie/images/wooden-chopsticks-on-a-black-stone-background-top-view-free-space-for-your-text/267235637?asset_id=267235637
+
+club-banner:
+https://stock.adobe.com/ie/search/images?filters%5Bcontent_type%3Aphoto%5D=1&filters%5Bcontent_type%3Aillustration%5D=1&filters%5Bcontent_type%3Azip_vector%5D=1&filters%5Bcontent_type%3Avideo%5D=0&filters%5Bcontent_type%3Atemplate%5D=0&filters%5Bcontent_type%3A3d%5D=0&filters%5Bcontent_type%3Aaudio%5D=0&filters%5Binclude_stock_enterprise%5D=0&filters%5Bis_editorial%5D=0&filters%5Bfree_collection%5D=0&filters%5Bcontent_type%3Aimage%5D=1&order=relevance&price%5B%24%5D=1&safe_search=1&serie_id=292837530&search_page=1&search_type=see-more&get_facets=0&asset_id=293103064
+
+favicon: 
+https://www.flaticon.com/free-icon/sushi_651468
+
+hero-img:
+https://www.freepik.com/premium-photo/green-sushi-rolls-with-tobiko-green-caviar-shrimp-traditional-japanese-cuisine-top-view_25061247.htm#page=2&query=sushi&position=38&from_view=search&track=sph
+
+maki:
+https://www.freepik.com/premium-photo/vegetarian-sushi-with-avocado-tomatoes-sushi-set-top-view-free-space-your-text_25686612.htm#page=3&query=sushi&position=25&from_view=search&track=sph
+
+menu-banner: 
+https://www.freepik.com/premium-photo/set-sushi-soy-sauce-japanese-traditional-cuisine-top-view-rustic-style_22415215.htm#query=sushi&position=9&from_view=search&track=sph
+
+nigiri:
+https://www.freepik.com/premium-photo/close-up-set-tree-sushi-with-salmon-tuna-shrimp-slate_19520393.htm#page=4&query=Nigiri&position=40&from_view=search&track=sph
+
+platter:
+https://www.freepik.com/free-photo/sushi-dish-asian-restaurant_4700554.htm?query=sushi%20chef#from_view=detail_alsolike
+
+sashimi:
+https://www.freepik.com/premium-photo/sushi-sashimi-set_3878943.htm#page=8&query=Nigiri&position=13&from_view=search&track=sph
+
+sushi-roll: 
+https://stock.adobe.com/ie/search?filters%5Bcontent_type%3Aphoto%5D=1&filters%5Bcontent_type%3Aillustration%5D=1&filters%5Bcontent_type%3Azip_vector%5D=1&filters%5Bcontent_type%3Avideo%5D=1&filters%5Bcontent_type%3Atemplate%5D=1&filters%5Bcontent_type%3A3d%5D=1&filters%5Bcontent_type%3Aimage%5D=1&order=relevance&safe_search=1&k=sushi+making&search_page=1&search_type=usertyped&acp=&aco=sushi+making&get_facets=0&asset_id=281456543
+
+temaki:
+https://www.justonecookbook.com/temaki-sushi-hand-roll/
+
+urmaki:
+https://www.freepik.com/premium-photo/sushi-rolls-california-with-sesame-salmon-avocado-set-sushi-rolls-seafood_29828130.htm#query=Uramaki&position=30&from_view=search&track=sph
+
+
+
+
+
+
+
+
+
+
+
+
+
