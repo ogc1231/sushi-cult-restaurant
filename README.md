@@ -22,19 +22,19 @@ Rough wireframes outlining the basic scucture of each page
 
 #### Home Page
 
-[Home Page](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/wireframes/wire-home.PNG)
+![Home Page](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/wireframes/wire-home.PNG)
 
 #### Booking Page
 
-[Booking Page](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/wireframes/wire-book.PNG)
+![Booking Page](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/wireframes/wire-book.PNG)
 
 #### Menu Page
 
-[Menu Page](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/wireframes/wire-menu.PNG)
+![Menu Page](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/wireframes/wire-menu.PNG)
 
 #### Club Page
 
-[Club Page](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/wireframes/wire-club.PNG)
+![Club Page](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/wireframes/wire-club.PNG)
 
 ### Colour Scheme
 
