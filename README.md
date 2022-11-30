@@ -163,6 +163,12 @@ Confirmation Page
 
 ### Future Features
 
+Add signup form for the sushi club.
+
+Add customer reviews.
+
+Add location map.
+
 Make website more engaging and interactive through the use of Javascript and CSS animation to add moving features.
 
 Implement online ordering and delivery system.
