@@ -56,17 +56,42 @@ This is where the user will be brought to when first entering the website.
 
 ![Home Page](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/homepage-full.png)
 
+Hero Section
+
+![Hero Section](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/hero.PNG)
+
+About Section
+
+![About Section](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/about.PNG)
+
+Chef Story Section
+
+![Chef Story Section](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/chef-story.PNG)
+
+
 ### Booking Page
 
 This is where the user can book a table for the restaurant.
 
 ![Booking Page](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/booking-full.png)
 
-### Menu Page
+Booking Section
+
+![Booking Section](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/booking.PNG)
+
+### Our Food Page
 
 This is where the user can see the types of sushi made in the restaurant.
 
-![Menu Page](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/menu-full.png)
+![Our Food Page](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/menu-full.png)
+
+Our Food Banner
+
+![Our Food Banner](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/banner.PNG)
+
+Our Food Section
+
+![Our Food Section](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/food.PNG)
 
 ### Sushi Club Page
 
@@ -76,11 +101,23 @@ This is where the user can learn about the sushi cooking lessons.
 
 ![Sushi Club Page2](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/club-full2.png)
 
+Sushi Club Banner
+
+![Sushi Club Banner](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/club-banner.PNG)
+
+Sushi Club Section
+
+![Sushi Club Section](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/club.PNG)
+
 ### Confirmation Page
 
 This is where the user will be brought to after booking a table, this redirects back to the homepage after 10 seconds.
 
 ![Confirmation Page](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/confirmation-full.png)
+
+Confirmation Section
+
+![Confirmation Section](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/confirm.PNG)
 
 ### Mobile Version Pages
 Screenshots of mobile version of website.
