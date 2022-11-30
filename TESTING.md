@@ -1,4 +1,7 @@
 # Testing
+
+Click to return back to the [README.md](README.md)
+
 ## User Testing
 
 ## User Stories Testing
@@ -27,7 +30,7 @@
 ![Sushi Club](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/club.PNG)
 
 
-## Cross-Browser Testing
+## Browser Compatibility Testing
 
 The webiste was tested across Firefox, Google Chrome and Mircosoft Edge browsers with the live link published to Github Pages.
 
@@ -43,7 +46,7 @@ The webiste was tested across Firefox, Google Chrome and Mircosoft Edge browsers
 
 ![Mircosoft Edge](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/edge.PNG)
 
-## Compatability and Responsiveness Testing
+## Responsiveness Testing
 ### Laptop
 Razer Blade 15
 
@@ -109,6 +112,8 @@ Sushi Club Phone
 
 ![Sushi Club Phone](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/phone-club.PNG)
 
-## Validator Testing
+## Code Validation Testing
 
 ## Performance Testing
+
+## Unfixed Bugs
