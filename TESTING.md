@@ -140,6 +140,8 @@ Sushi Club Phone
 
 ## Performance Testing
 
+The performance was tested for website using Google Chrome's Developer Tool Lighthouse. The test was run twice, once with desktop as the selected device and once with mobile as the selected device.
+
 ### Lighthouse Desktop
 
 ![Lighthouse Desktop](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/lighthouse-desktop.PNG)
