@@ -4,6 +4,8 @@ Click to return back to the [README.md](README.md)
 
 ## User Testing
 
+The website was tested on mutiple devices and screen sizes including phones, computers, tablets and various monitor sizes.
+
 ## User Stories Testing
 ### As a user, I want to see the opening hours of the restaurant.
 
