@@ -240,7 +240,7 @@ Alternatively, if using Gitpod, you can click below to create your own workspace
 
 Code for the footer was taken from [Code Institute's](https://github.com/Code-Institute-Solutions/love-running-2.0-sourcecode/tree/main/01-getting-set-up/01-getting-set-up) Love Running walkthrough project with required tweaks to suit.
 
-
+First version of sushi cult moved over to new repository to make use of Code Institue template [see here](https://github.com/ogc1231/sushi-cult)  
 
 ### Content
 
