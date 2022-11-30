@@ -266,6 +266,8 @@ First version of sushi cult moved over to new repository to make use of Code Ins
  Descriptions of the different sushi types were taken from [here](https://restaurantclicks.com/types-of-sushi/) 
 
 ### Design
+ 
+Wireframes were made using Balsamiq [Balsamiq](https://balsamiq.com/wireframes/)
 
 Design inspired by [Rustic Stone](https://www.rusticstone.ie/) and [Jevelin Burger Shop](https://jevelin.shufflehound.com/burger-shop/#backtotop)
 
