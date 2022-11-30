@@ -18,7 +18,7 @@ The website aim is to build a fully responsive mobile first design website which
 - As a user, I want to able to learn about the sushi masterclass.
 ### Wireframes
 
-Rough wireframes outlining the basic scucture of each page
+Rough wireframes outlining the basic scucture of each page created using Balsamiq based on quick sketches.
 
 #### Home Page
 
