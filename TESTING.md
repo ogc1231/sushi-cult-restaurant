@@ -44,6 +44,70 @@ The webiste was tested across Firefox, Google Chrome and Mircosoft Edge browsers
 ![Mircosoft Edge](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/edge.PNG)
 
 ## Compatability and Responsiveness Testing
+### Laptop
+Razer Blade 15
+
+About Laptop
+
+![About Laptop](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/firefox.PNG)
+
+Story Laptop
+
+![Story Laptop](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/firefox.PNG)
+
+Booking Laptop
+
+![Booking Laptop](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/firefox.PNG)
+
+Food Laptop
+
+![Food Laptop](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/firefox.PNG)
+
+Sushi Club Laptop
+
+![Sushi Club Laptop](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/firefox.PNG)
+
+### Tablet
+About Tablet
+
+![About Tablet](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/firefox.PNG)
+
+Story Tablet
+
+![Story Tablet](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/firefox.PNG)
+
+Booking Tablet
+
+![Booking Tablet](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/firefox.PNG)
+
+Food Tablet
+
+![Food Tablet](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/firefox.PNG)
+
+Sushi Club Tablet
+
+![Sushi Club Tablet](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/firefox.PNG)
+
+### Mobile Phone
+About Phone
+
+![About Phone](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/firefox.PNG)
+
+Story Phone
+
+![Story Phone](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/firefox.PNG)
+
+Booking Phone
+
+![Booking Phone](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/firefox.PNG)
+
+Food Phone
+
+![Food Phone](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/firefox.PNG)
+
+Sushi Club Phone
+
+![Sushi Club Phone](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/firefox.PNG)
 
 ## Validator Testing
 
