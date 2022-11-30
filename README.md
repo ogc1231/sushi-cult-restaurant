@@ -83,7 +83,7 @@ This is where the user can book a table for the restaurant.
 
 Booking Section
 
-This section is where the user can book a table by inputting all the required information. After booking the user will be redirected to the confirmation page. The background image reinforces the idea of quality and modernism.
+This section is where the user can book a table by inputting all the required information. All fields are required to submit the form. After booking the user will be redirected to the confirmation page. The background image reinforces the idea of quality and modernism.
 
 ![Booking Section](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/booking.PNG)
 
