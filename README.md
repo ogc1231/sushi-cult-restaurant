@@ -1,7 +1,7 @@
 # Sushi Cult Resturant
 This is the website for Sushi Cult, a sushi resturant based in Dublin City, Ireland. The aim of the website is provide information about the resturant including the story behind the resturant, the mission, the food and the chef behind it all to potential and returning customers. If also functions as a tool to convert web traffic into new table bookings and sign ups for their sushi club.
 
-The website aim is to build a fully responsive and easy to navigate website using HTML and CSS.
+The website aim is to build a fully responsive mobile first design website which is easy to use and navigate using HTML and CSS.
 
 Live link to website: https://ogc1231.github.io/sushi-cult-restaurant/index.html
 
@@ -49,19 +49,28 @@ Footer
 The footer located at the bottom of each webpage, with links to social media pages.
 
 ![Footer](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/footer.PNG)
+
 ### Home Page
+
+This is where the user will be brought to when first entering the website.
 
 ![Home Page](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/homepage-full.png)
 
 ### Booking Page
 
+This is where the user can book a table for the restaurant.
+
 ![Booking Page](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/booking-full.png)
 
 ### Menu Page
 
+This is where the user can see the types of sushi made in the restaurant.
+
 ![Menu Page](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/menu-full.png)
 
 ### Sushi Club Page
+
+This is where the user can learn about the sushi cooking lessons.
 
 ![Sushi Club Page1](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/club-full1.png)
 
@@ -69,9 +78,12 @@ The footer located at the bottom of each webpage, with links to social media pag
 
 ### Confirmation Page
 
+This is where the user will be brought to after booking a table, this redirects back to the homepage after 10 seconds.
+
 ![Confirmation Page](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/confirmation-full.png)
 
-### Mobile Site
+### Mobile Version Pages
+Screenshots of mobile version of website.
 
 Home Page
 
