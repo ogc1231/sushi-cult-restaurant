@@ -149,21 +149,28 @@ Confirmation Page
 List of the technologies used on this website.
 
     HTML5
-        HTML5 was used to create the structure of the site.
+    HTML5 was used to create the structure of the site.
+
     CSS3
-        CSS3 was used to add styling to the site.
-    Font Awesome
-        Font Awesome was used to import icons used across the site.
-    Google Fonts
-        Google Fonts was used to import the Amatic SC and Josefin Sans fonts for use on styles.css.
+    CSS3 was used to add styling to the site.
+
     Github
-        Github was used to store the project's code after being pushed from Git.
+    Github was used to store the project's code after being pushed from Git.
+
     Gitpod
-        Gitpod terminal was used to commit my code using Git and push it to Github.
+    Gitpod terminal was used to commit my code using Git and push it to Github.
+
     Git
-        Git was used for version control through the Gitpod terminal.
+    Git was used for version control through the Gitpod terminal.
+
+    Font Awesome
+    Font Awesome was used to import icons.
+
+    Google Fonts
+    Google Fonts was used to import the Rubik and Karla fonts for use in style.css.
+
     Balsamiq
-        Balsamiq was used to design the wireframes for the project.
+    Balsamiq was used to design the wireframes for the project.
 
 
 ## Testing
