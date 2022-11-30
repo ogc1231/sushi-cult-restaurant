@@ -70,23 +70,23 @@ Sushi Club Laptop
 ### Tablet
 About Tablet
 
-![About Tablet](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/firefox.PNG)
+![About Tablet](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/tablet-about.PNG)
 
 Story Tablet
 
-![Story Tablet](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/firefox.PNG)
+![Story Tablet](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/tablet-story.PNG)
 
 Booking Tablet
 
-![Booking Tablet](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/firefox.PNG)
+![Booking Tablet](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/tablet-booking.PNG)
 
 Food Tablet
 
-![Food Tablet](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/firefox.PNG)
+![Food Tablet](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/tablet-food.PNG)
 
 Sushi Club Tablet
 
-![Sushi Club Tablet](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/firefox.PNG)
+![Sushi Club Tablet](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/tablet-club.PNG)
 
 ### Mobile Phone
 About Phone
