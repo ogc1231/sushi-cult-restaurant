@@ -29,6 +29,12 @@
 
 ## Cross-Browser Testing
 
+The webiste was tested across Firefox, Google Chrome and Mircosoft Edge browsers with the live link published to Github Pages.
+
+### Firefox
+### Google Chrome
+### Mircosoft Edge 
+
 ## Compatability and Responsiveness Testing
 
 ## Validator Testing
