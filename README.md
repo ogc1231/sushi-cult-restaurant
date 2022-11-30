@@ -69,7 +69,29 @@ The footer located at the bottom of each webpage, with links to social media pag
 
 ### Confirmation Page
 
-![Confirmation Page2](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/confirmation-full.png)
+![Confirmation Page](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/confirmation-full.png)
+
+### Mobile Site
+
+Home Page
+
+![Home Page Mobile](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/home-mobile.png)
+
+Booking Page
+
+![Booking Page Mobile](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/book-mobile.png)
+
+Menu Page
+
+![Menu Page Mobile](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/menu-mobile.png)
+
+Sushi Club Page
+
+![Sushi Club Page Mobile](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/club-mobile.png)
+
+Confirmation Page
+
+![Confirmation Page](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/confirmation-mobile.png)
 
 ## Testing
 
