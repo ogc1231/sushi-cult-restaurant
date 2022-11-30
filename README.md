@@ -1,5 +1,6 @@
 # Sushi Cult Resturant
-This is the website for Sushi Cult, a sushi resturant based in Dublin City, Ireland. The aim of the website is provide information about the resturant including the story behind the resturant, the mission, the food and the chef behind it all to potential and returning customers. If also functions as a tool to convert web traffic into new table bookings and sign ups for their sushi club.
+
+This is the website for Sushi Cult, a sushi resturant based in Dublin City, Ireland. The aim of the website is provide information about the resturant including the story behind the resturant and the food to potential and returning customers. If also functions as a tool to convert web traffic into new table bookings and members the sushi club cooking masterclasses.
 
 The website aim is to build a fully responsive mobile first design website which is easy to use and navigate using HTML and CSS.
 

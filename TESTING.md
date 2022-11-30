@@ -53,69 +53,69 @@ The webiste was tested across Firefox, Google Chrome and Mircosoft Edge browsers
 
 Razer Blade 15
 
-#### About Laptop
+#### About Section Laptop
 
-![About Laptop](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/laptop-about.PNG)
+![About Section Laptop](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/laptop-about.PNG)
 
-#### Story Laptop
+#### Story Section Laptop
 
-![Story Laptop](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/laptop-story.PNG)
+![Story Section Laptop](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/laptop-story.PNG)
 
-#### Booking Laptop
+#### Booking Section Laptop
 
-![Booking Laptop](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/laptop-booking.PNG)
+![Booking Section Laptop](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/laptop-booking.PNG)
 
-#### Food Laptop
+#### Food Section Laptop
 
-![Food Laptop](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/laptop-food.PNG)
+![Food Section Laptop](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/laptop-food.PNG)
 
-#### Sushi Club Laptop
+#### Sushi Club Section Laptop
 
-![Sushi Club Laptop](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/laptop-club.PNG)
+![Sushi Club Section Laptop](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/laptop-club.PNG)
 
 ### Tablet
 
-#### About Tablet
+#### About Section Tablet
 
-![About Tablet](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/tablet-about.PNG)
+![About Section Tablet](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/tablet-about.PNG)
 
-#### Story Tablet
+#### Story Section Tablet
 
-![Story Tablet](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/tablet-story.PNG)
+![Story Section Tablet](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/tablet-story.PNG)
 
-#### Booking Tablet
+#### Booking Section Tablet
 
-![Booking Tablet](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/tablet-booking.PNG)
+![Booking Section Tablet](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/tablet-booking.PNG)
 
-#### Food Tablet
+#### Food Section Tablet
 
-![Food Tablet](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/tablet-food.PNG)
+![Food Section Tablet](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/tablet-food.PNG)
 
-#### Sushi Club Tablet
+#### Sushi Club Section Tablet
 
-![Sushi Club Tablet](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/tablet-club.PNG)
+![Sushi Club Section Tablet](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/tablet-club.PNG)
 
 ### Mobile Phone
 
-#### About Phone
+#### About Section Phone
 
-![About Phone](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/phone-about.PNG)
+![About Section Phone](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/phone-about.PNG)
 
-#### Story Phone
+#### Story Section Phone
 
-![Story Phone](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/phone-story.PNG)
+![Story Section Phone](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/phone-story.PNG)
 
-#### Booking Phone
+#### Booking Section Phone
 
-![Booking Phone](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/phone-book.PNG)
+![Booking Section Phone](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/phone-book.PNG)
 
-#### Food Phone
+#### Food Section Phone
 
-![Food Phone](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/phone-food.PNG)
+![Food Section Phone](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/phone-food.PNG)
 
-#### Sushi Club Phone
+#### Sushi Club Section Phone
 
-![Sushi Club Phone](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/phone-club.PNG)
+![Sushi Club Section Phone](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/phone-club.PNG)
 
 ## Code Validation Testing
 
