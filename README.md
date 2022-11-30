@@ -5,6 +5,8 @@ The website aim is to build a fully responsive mobile first design website which
 
 Live link to website: https://ogc1231.github.io/sushi-cult-restaurant/index.html
 
+[Live link to website](https://ogc1231.github.io/sushi-cult-restaurant/index.html)
+
 ![Colour Scheme](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/website-preview.PNG)
 
 ## UX & Design
