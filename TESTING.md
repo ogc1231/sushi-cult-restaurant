@@ -114,6 +114,26 @@ Sushi Club Phone
 
 ## Code Validation Testing
 
+### index.html
+
+![index.html](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/valid-home.PNG)
+
+### book.html
+
+![book.html](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/valid-home.PNG)
+
+### menu.html
+
+![menu.html](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/valid-menu.PNG)
+
+### club.html
+
+![club.html](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/valid-club.PNG)
+
+### confirmation.html
+
+![confirmation.html](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/valid-confirmation.PNG)
+
 ## Performance Testing
 
 ## Unfixed Bugs
