@@ -1,6 +1,7 @@
 # Testing
 ## User Testing
 
+## User Stories Testing
 ### As a user, I want to see the opening hours of the restaurant.
 
 ![Opening Hours](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/booking.PNG)
@@ -25,7 +26,6 @@
 
 ![Sushi Club](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/club.PNG)
 
-## User Stories Testing
 
 ## Cross-Browser Testing
 
