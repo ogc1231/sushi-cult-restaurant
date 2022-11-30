@@ -38,13 +38,13 @@ The logo and navigation bar located at the top of each webpage, with links to va
 
 ![Logo and Navigation Bar](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/nav-bar.PNG)
 
-Favicon
+#### Favicon
 
 The favicon located in the browser tab to fit the brand of Sushi Cult.
 
 ![Favicon](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/favicon.png)
 
-Footer
+#### Footer
 
 The footer located at the bottom of each webpage, with links to social media pages.
 
@@ -56,19 +56,19 @@ This is where the user will be brought to when first entering the website.
 
 ![Home Page](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/homepage-full.png)
 
-Hero Section
+#### Hero Section
 
 This section displays the sushi cult logo with a call to action button "Book a table" which redirects to the booking page. Beside is a an eye catching image of a plate of sushi to set users expections of the dining experience. This section will flex depending on screen size.
 
 ![Hero Section](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/hero.PNG)
 
-About Section
+#### About Section
 
 This section explains the ethos of the restaurant and sets a standard of quality for the food. The images reinforce the idea of quality. This section will flex depending on screen size.
 
 ![About Section](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/about.PNG)
 
-Chef Story Section
+#### Chef Story Section
 
 This section explains the background and the motivations of the chef
 
@@ -81,7 +81,7 @@ This is where the user can book a table for the restaurant.
 
 ![Booking Page](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/booking-full.png)
 
-Booking Section
+#### Booking Section
 
 This section is where the user can book a table by inputting all the required information. All fields are required to submit the form. After booking the user will be redirected to the confirmation page. The background image reinforces the idea of quality and modernism.
 
@@ -93,13 +93,13 @@ This is where the user can see the types of sushi made in the restaurant.
 
 ![Our Food Page](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/menu-full.png)
 
-Our Food Banner
+#### Our Food Banner
 
 This banner shows a colourful array of sushi, grabbing the imagination and potentially the taste buds of the user.
 
 ![Our Food Banner](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/banner.PNG)
 
-Our Food Section
+#### Our Food Section
 
 This section reinforces the quality standards and explain the different types of sushi available in the restaurant with images for reference.
 
@@ -113,13 +113,13 @@ This is where the user can learn about the sushi cooking lessons. Two images whe
 
 ![Sushi Club Page2](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/club-full2.png)
 
-Sushi Club Banner
+#### Sushi Club Banner
 
 This banner shows a line different types of colourful nigiri sushi. The heading call to action to "join the club".
 
 ![Sushi Club Banner](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/club-banner.PNG)
 
-Sushi Club Section
+#### Sushi Club Section
 
 This section outline the purpose of the club in teaching sushi making skills to those interested and the times and days lesson operate. The image gives a little insight into the sushi making process. This sections flexs depending on screen size with the accompanying all changing depending on screen size.
 
@@ -131,7 +131,7 @@ This is where the user will be brought to after booking a table, this redirects 
 
 ![Confirmation Page](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/confirmation-full.png)
 
-Confirmation Section
+#### Confirmation Section
 
 This section just ensures the user that their booking has been confirmed and that will receive an email confirming all the details about their booking.
 
@@ -141,23 +141,23 @@ This section just ensures the user that their booking has been confirmed and tha
 
 The website used a mobile first approach. Below are screenshots of mobile version of website.
 
-Home Page
+#### Home Page
 
 ![Home Page Mobile](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/home-mobile.png)
 
-Booking Page
+#### Booking Page
 
 ![Booking Page Mobile](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/book-mobile.png)
 
-Menu Page
+#### Menu Page
 
 ![Menu Page Mobile](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/menu-mobile.png)
 
-Sushi Club Page
+#### Sushi Club Page
 
 ![Sushi Club Page Mobile](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/club-mobile.png)
 
-Confirmation Page
+#### Confirmation Page
 
 ![Confirmation Page](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/confirmation-mobile.png)
 
@@ -256,7 +256,7 @@ Most images sourced from [Freepik.com](https://www.freepik.com/) and [Adobe Stoc
 
 Social media icons from [fontawesome.com](https://fontawesome.com/) 
 
-Image links
+#### Image links
 
 [about-image1](https://www.freepik.com/premium-photo/sushi-california-roll-with-salmon-cucumber-cream-cheese-black-background-with-reflection_33047153.htm#page=3&query=sushi&position=42&from_view=search&track=sph)
 

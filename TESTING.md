@@ -50,67 +50,70 @@ The webiste was tested across Firefox, Google Chrome and Mircosoft Edge browsers
 
 ## Responsiveness Testing
 ### Laptop
+
 Razer Blade 15
 
-About Laptop
+#### About Laptop
 
 ![About Laptop](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/laptop-about.PNG)
 
-Story Laptop
+#### Story Laptop
 
 ![Story Laptop](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/laptop-story.PNG)
 
-Booking Laptop
+#### Booking Laptop
 
 ![Booking Laptop](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/laptop-booking.PNG)
 
-Food Laptop
+#### Food Laptop
 
 ![Food Laptop](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/laptop-food.PNG)
 
-Sushi Club Laptop
+#### Sushi Club Laptop
 
 ![Sushi Club Laptop](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/laptop-club.PNG)
 
 ### Tablet
-About Tablet
+
+#### About Tablet
 
 ![About Tablet](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/tablet-about.PNG)
 
-Story Tablet
+#### Story Tablet
 
 ![Story Tablet](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/tablet-story.PNG)
 
-Booking Tablet
+#### Booking Tablet
 
 ![Booking Tablet](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/tablet-booking.PNG)
 
-Food Tablet
+#### Food Tablet
 
 ![Food Tablet](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/tablet-food.PNG)
 
-Sushi Club Tablet
+#### Sushi Club Tablet
 
 ![Sushi Club Tablet](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/tablet-club.PNG)
 
 ### Mobile Phone
-About Phone
+
+#### About Phone
 
 ![About Phone](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/phone-about.PNG)
 
-Story Phone
+#### Story Phone
 
 ![Story Phone](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/phone-story.PNG)
 
-Booking Phone
+#### Booking Phone
 
 ![Booking Phone](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/phone-book.PNG)
 
-Food Phone
+#### Food Phone
 
 ![Food Phone](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/phone-food.PNG)
 
-Sushi Club Phone
+#### Sushi Club Phone
 
 ![Sushi Club Phone](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/phone-club.PNG)
 
@@ -169,4 +172,4 @@ The performance was tested for website using Google Chrome's Developer Tool Ligh
 
 ## Unfixed Bugs
 
-Only known issue/bug is the page title on the sushi club page coming down over the row of sushi on certain devices and the footer on the booking page growing larger on some tablet devices.
+Only known issues/bugs are the page title on the sushi club page coming down over the row of sushi on certain devices and the footer on the booking page growing larger on some tablet devices. There may be other bugs which are currently unknown but may show up other devices and screen sizes.
