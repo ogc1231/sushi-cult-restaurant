@@ -120,7 +120,7 @@ Sushi Club Phone
 
 ### book.html
 
-![book.html](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/valid-home.PNG)
+![book.html](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/valid-book.PNG)
 
 ### menu.html
 
@@ -133,6 +133,10 @@ Sushi Club Phone
 ### confirmation.html
 
 ![confirmation.html](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/valid-confirmation.PNG)
+
+### style.css
+
+![style.css](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/css-valid.PNG)
 
 ## Performance Testing
 
