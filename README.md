@@ -252,11 +252,11 @@ Design inspired by [Rustic Stone](https://www.rusticstone.ie/) and [Jevelin Burg
 
 ### Media
 
-Images sourced from [Freepik.com](https://www.freepik.com/) and [Adobe Stock](https://stock.adobe.com/ie/) 
+Most images sourced from [Freepik.com](https://www.freepik.com/) and [Adobe Stock](https://stock.adobe.com/ie/) 
 
 Social media icons from [fontawesome.com](https://fontawesome.com/) 
 
-Images
+Image links
 
 [about-image1](https://www.freepik.com/premium-photo/sushi-california-roll-with-salmon-cucumber-cream-cheese-black-background-with-reflection_33047153.htm#page=3&query=sushi&position=42&from_view=search&track=sph)
 
