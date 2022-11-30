@@ -144,6 +144,13 @@ Confirmation Page
 
 ### Future Features
 
+Make website more engaging and interactive through the use of Javascript and CSS animation to add moving features.
+
+Implement online ordering and delivery system.
+
+Add blog with videos teaching sushi making techniques.
+
+
 ### Technologies Used
 
 List of the technologies used on this website.
