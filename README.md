@@ -32,7 +32,7 @@ I used [Google Fonts](https://fonts.google.com/specimen/Rubik) to import the fon
 ## Features
 ### Common Elements
 
-Logo and Navigation Bar
+#### Logo and Navigation Bar
 
 The logo and navigation bar located at the top of each webpage, with links to various pages of the website. Will responsively resize according to device screen size. 
 
