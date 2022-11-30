@@ -114,33 +114,47 @@ Sushi Club Phone
 
 ## Code Validation Testing
 
+No issues when running through CSS and HTML validators, W3 Nu Html Checker used for HTML and W3 Jigsaw used for CSS.
+
 ### index.html
+
+No issues
 
 ![index.html](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/valid-home.PNG)
 
 ### book.html
 
+No issues
+
 ![book.html](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/valid-book.PNG)
 
 ### menu.html
+
+No issues
 
 ![menu.html](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/valid-menu.PNG)
 
 ### club.html
 
+No issues
+
 ![club.html](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/valid-club.PNG)
 
 ### confirmation.html
+
+No issues
 
 ![confirmation.html](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/valid-confirmation.PNG)
 
 ### style.css
 
+No issues
+
 ![style.css](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/css-valid.PNG)
 
 ## Performance Testing
 
-The performance was tested for website using Google Chrome's Developer Tool Lighthouse. The test was run twice, once with desktop as the selected device and once with mobile as the selected device.
+The performance was tested for website using Google Chrome's Developer Tool Lighthouse. The test was run twice, once with desktop as the selected device and once with mobile as the selected device. Scores are all in the high 90s or 100.
 
 ### Lighthouse Desktop
 
@@ -152,3 +166,5 @@ The performance was tested for website using Google Chrome's Developer Tool Ligh
 
 
 ## Unfixed Bugs
+
+Only known issue/bug is the page title on the sushi club page coming down over the row of sushi on certain devices and the footer on the booking page growing larger on some tablet devices.
