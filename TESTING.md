@@ -140,4 +140,13 @@ Sushi Club Phone
 
 ## Performance Testing
 
+### Lighthouse Desktop
+
+![Lighthouse Desktop](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/lighthouse-desktop.PNG)
+
+### Lighthouse Mobile
+
+![Lighthouse Mobile](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/lighthouse-mobile.PNG)
+
+
 ## Unfixed Bugs
