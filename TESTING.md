@@ -49,23 +49,23 @@ Razer Blade 15
 
 About Laptop
 
-![About Laptop](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/firefox.PNG)
+![About Laptop](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/laptop-about.PNG)
 
 Story Laptop
 
-![Story Laptop](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/firefox.PNG)
+![Story Laptop](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/laptop-story.PNG)
 
 Booking Laptop
 
-![Booking Laptop](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/firefox.PNG)
+![Booking Laptop](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/laptop-booking.PNG)
 
 Food Laptop
 
-![Food Laptop](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/firefox.PNG)
+![Food Laptop](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/laptop-food.PNG)
 
 Sushi Club Laptop
 
-![Sushi Club Laptop](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/firefox.PNG)
+![Sushi Club Laptop](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/laptop-club.PNG)
 
 ### Tablet
 About Tablet
