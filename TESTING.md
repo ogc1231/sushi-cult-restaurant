@@ -33,15 +33,15 @@ The webiste was tested across Firefox, Google Chrome and Mircosoft Edge browsers
 
 ### Firefox
 
-![Sushi Club](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/club.PNG)
+![Firefox](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/firefox.PNG)
 
 ### Google Chrome
 
-![Sushi Club](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/club.PNG)
+![Google Chrome](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/chrome.PNG)
 
 ### Mircosoft Edge 
 
-![Sushi Club](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/club.PNG)
+![Mircosoft Edge](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/edge.PNG)
 
 ## Compatability and Responsiveness Testing
 
