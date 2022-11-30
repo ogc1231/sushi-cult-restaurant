@@ -16,7 +16,25 @@ The website aim is to build a fully responsive mobile first design website which
 - As a user, I want to be able to see the food the restaurant makes.
 - As a user, I want to learn about the chef's background.
 - As a user, I want to able to learn about the sushi masterclass.
-### Wireframes?
+### Wireframes
+
+Rough wireframes outlining the basic scucture of each page
+
+#### Home Page
+
+[Home Page](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/wireframes/wire-home.PNG)
+
+#### Booking Page
+
+[Booking Page](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/wireframes/wire-book.PNG)
+
+#### Menu Page
+
+[Menu Page](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/wireframes/wire-menu.PNG)
+
+#### Club Page
+
+[Club Page](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/wireframes/wire-club.PNG)
 
 ### Colour Scheme
 
