@@ -3,8 +3,6 @@ This is the website for Sushi Cult, a sushi resturant based in Dublin City, Irel
 
 The website aim is to build a fully responsive mobile first design website which is easy to use and navigate using HTML and CSS.
 
-Live link to website: https://ogc1231.github.io/sushi-cult-restaurant/index.html
-
 [Live link to website](https://ogc1231.github.io/sushi-cult-restaurant/index.html)
 
 ![Colour Scheme](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/website-preview.PNG)
@@ -217,7 +215,7 @@ In the [GitHub repository](https://github.com/ogc1231/sushi-cult-restaurant), na
 From the source section drop-down menu, select the Main Branch, then click "Save".
 The page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 
-The live link can be found here
+The live link can be found [here](https://ogc1231.github.io/sushi-cult-restaurant/index.html)
 ### Local Deployment 
 
 ## Credits
