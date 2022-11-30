@@ -138,7 +138,8 @@ This section just ensures the user that their booking has been confirmed and tha
 ![Confirmation Section](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/confirm.PNG)
 
 ### Mobile Version Pages
-Screenshots of mobile version of website.
+
+The website used a mobile first approach. Below are screenshots of mobile version of website.
 
 Home Page
 
