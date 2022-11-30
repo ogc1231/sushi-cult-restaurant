@@ -12,7 +12,7 @@ The website aim is to build a fully responsive mobile first design website which
 - As a user, I want to see the opening hours of the restaurant.
 - As a user, I want to be able to book a table.
 - As a user, I want to be able to follow the restaurant on social media.
-- As a user, I want to be able to the food the restaurant makes.
+- As a user, I want to be able to see the food the restaurant makes.
 - As a user, I want to learn about the chef's background.
 - As a user, I want to able to learn about the sushi masterclass.
 ### Wireframes?
