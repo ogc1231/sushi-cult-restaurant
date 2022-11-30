@@ -207,6 +207,8 @@ List of the technologies used on this website.
 
 ## Testing
 
+View testing [here](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/TESTING.md)
+
 ## Deployment
 
 The site was deployed to GitHub pages. The steps to deploy are as follows:
