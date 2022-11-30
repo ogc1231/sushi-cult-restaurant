@@ -142,6 +142,30 @@ Confirmation Page
 
 ![Confirmation Page](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/confirmation-mobile.png)
 
+### Future Features
+
+### Technologies Used
+
+List of the technologies used on this website.
+
+    HTML5
+        HTML5 was used to create the structure of the site.
+    CSS3
+        CSS3 was used to add styling to the site.
+    Font Awesome
+        Font Awesome was used to import icons used across the site.
+    Google Fonts
+        Google Fonts was used to import the Amatic SC and Josefin Sans fonts for use on styles.css.
+    Github
+        Github was used to store the project's code after being pushed from Git.
+    Gitpod
+        Gitpod terminal was used to commit my code using Git and push it to Github.
+    Git
+        Git was used for version control through the Gitpod terminal.
+    Balsamiq
+        Balsamiq was used to design the wireframes for the project.
+
+
 ## Testing
 
 ## Deployment
