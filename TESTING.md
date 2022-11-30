@@ -91,23 +91,23 @@ Sushi Club Tablet
 ### Mobile Phone
 About Phone
 
-![About Phone](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/firefox.PNG)
+![About Phone](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/phone-about.PNG)
 
 Story Phone
 
-![Story Phone](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/firefox.PNG)
+![Story Phone](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/phone-story.PNG)
 
 Booking Phone
 
-![Booking Phone](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/firefox.PNG)
+![Booking Phone](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/phone-book.PNG)
 
 Food Phone
 
-![Food Phone](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/firefox.PNG)
+![Food Phone](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/phone-food.PNG)
 
 Sushi Club Phone
 
-![Sushi Club Phone](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/firefox.PNG)
+![Sushi Club Phone](https://github.com/ogc1231/sushi-cult-restaurant/blob/main/documentation/testing/phone-club.PNG)
 
 ## Validator Testing
 
